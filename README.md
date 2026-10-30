@@ -2,6 +2,8 @@
 
 **Scan Pe** is a lightning-fast, privacy-focused Progressive Web App (PWA) built for seamless UPI payments. It features a dual-mode interface designed for both instant QR code scanning and creating clean, shareable payment links.
 
+🌐 **Live Demo:** (https://nishantishere.github.io/ScanPe/)
+
 ---
 
 ## ✨ Features
@@ -18,13 +20,13 @@
 ## 🛠️ Tech Stack
 
 * **Frontend:** Vanilla JavaScript, HTML5, CSS3 (Modern custom design system with dark/light theme support)
-* **QR Engine:** Embedded [`html5-qrcode`](https://github.com/mebjas/html5-qrcode) library
+* **QR Engine:** Embedded `html5-qrcode` library
 * **PWA:** Service Workers (`sw.js`) and Web Manifest (`manifest.json`)
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Getting Started & Deployment
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/scan-pe.git](https://github.com/your-username/scan-pe.git)
+   git clone (https://github.com/Nishantishere/ScanPe.git)
